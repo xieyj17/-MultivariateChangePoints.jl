@@ -1,1 +1,1 @@
-# MultivariateChangePoints.jl
+# MVChangePointDetection.jl
