@@ -1,1 +1,1 @@
-# -MultivariateChangePoints.jl
+# MultivariateChangePoints.jl
